@@ -1,0 +1,91 @@
+{
+  "intro": {
+    "name": "自己紹介",
+    "items": [
+      {
+        "name": "こはる (KoharuYuzuki25)",
+        "desc": "こはるです。poinoの開発者です。音声合成とか好き。",
+        "url": "https://twitter.com/KoharuYuzuki25",
+        "text": "こ",
+        "color": "red"
+      }
+    ]
+  },
+  "made": {
+    "name": "つくったもの",
+    "items": [
+      {
+        "name": "poino",
+        "desc": "喋って歌える中の人のいない音声合成ソフト",
+        "url": "https://sites.google.com/view/poino/",
+        "img": "/img/poino-icon.png"
+      }
+    ]
+  },
+  "like": {
+    "name": "すきなもの",
+    "items": [
+      {
+        "name": "JavaScript",
+        "desc": "プログラミング言語",
+        "url": "https://developer.mozilla.org/ja/docs/Web/JavaScript",
+        "text": "JS",
+        "color": "yellow"
+      },
+      {
+        "name": "TypeScript",
+        "desc": "プログラミング言語",
+        "url": "https://www.typescriptlang.org/",
+        "text": "TS",
+        "color": "blue"
+      },
+      {
+        "name": "Python",
+        "desc": "プログラミング言語",
+        "url": "https://www.python.org/",
+        "text": "PY",
+        "color": "yellow"
+      },
+      {
+        "name": "Arduino",
+        "desc": "エレクトロニクスプラットフォーム",
+        "url": "https://www.arduino.cc/",
+        "text": "AR",
+        "color": "green"
+      },
+      {
+        "name": "音声合成",
+        "desc": "中の人のいない音声合成に興味があります！",
+        "url": "https://ja.wikipedia.org/wiki/%E9%9F%B3%E5%A3%B0%E5%90%88%E6%88%90",
+        "text": "音",
+        "color": "red"
+      }
+    ]
+  },
+  "make": {
+    "name": "つくっているもの & つくりたいもの",
+    "items": [
+      {
+        "name": "PoinoTalk",
+        "desc": "進化した中の人のいないテキスト読み上げソフト",
+        "url": null,
+        "text": "PT",
+        "color": "green"
+      },
+      {
+        "name": "PoinoSing",
+        "desc": "進化した中の人のいない歌唱ソフト",
+        "url": null,
+        "text": "PS",
+        "color": "red"
+      },
+      {
+        "name": "動画編集ソフト",
+        "desc": "TypeScriptで編集できる動画編集ソフト",
+        "url": null,
+        "text": "動",
+        "color": "blue"
+      }
+    ]
+  }
+}
