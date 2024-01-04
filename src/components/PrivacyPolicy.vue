@@ -56,8 +56,12 @@
         ]
       )
     ]"
+    v-on:click="setDisplay(false)"
   >
-    <div class="w-fit h-fit max-w-[600px] m-4 p-4 bg-slate-50 drop-shadow-xl rounded-2xl flex flex-col items-center">
+    <div
+      class="w-fit h-fit max-w-[600px] m-4 p-4 bg-slate-50 drop-shadow-xl rounded-2xl flex flex-col items-center"
+      v-on:click.stop=""
+    >
         <h2 class="text-2xl font-bold	text-slate-500 mb-2">
           プライバシーポリシー
         </h2>

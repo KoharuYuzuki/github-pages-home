@@ -101,8 +101,12 @@
         ]
       )
     ]"
+    v-on:click="setDisplay(false)"
   >
-    <div class="w-fit h-fit bg-slate-50 drop-shadow-xl rounded-2xl m-4">
+    <div
+      class="w-fit h-fit bg-slate-50 drop-shadow-xl rounded-2xl m-4"
+      v-on:click.stop=""
+    >
       <div class="w-fit h-fit max-w-[600px] max-h-[500px] m-4 flex flex-col items-center overflow-y-scroll overscroll-contain">
           <h2 class="text-2xl font-bold	text-slate-500 mb-2">
             サードパーティーライセンス
